@@ -75,7 +75,7 @@ export function About() {
             {/* Stats Cards */}
             <div className="space-y-4 pt-4">
               <div className="px-6 py-4 rounded-2xl bg-white/60 dark:bg-card/80 border border-border/40">
-                <div className="text-4xl font-black text-accent">6+</div>
+                <div className="text-4xl font-black text-accent">5+</div>
                 <p className="text-sm text-foreground/60 mt-2 font-semibold">
                   Years Experience
                 </p>
@@ -87,7 +87,7 @@ export function About() {
                 </p>
               </div>
               <div className="px-6 py-4 rounded-2xl bg-white/60 dark:bg-card/80 border border-border/40">
-                <div className="text-4xl font-black text-accent">100M+</div>
+                <div className="text-4xl font-black text-accent">100K+</div>
                 <p className="text-sm text-foreground/60 mt-2 font-semibold">
                   Users Reached
                 </p>
